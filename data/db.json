@@ -1,0 +1,16 @@
+{
+  "notes": [
+    {
+      "title": "Robert",
+      "details": "Work on the project!",
+      "category": "todos",
+      "id": 1
+    },
+    {
+      "title": "Fry-de-coop",
+      "details": "Silviu needs to give you 15$!",
+      "category": "money",
+      "id": 2
+    }
+  ]
+}
